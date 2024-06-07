@@ -24,7 +24,7 @@
             <div class="flex justify-between h-16">
                 <div class="flex items-center">
                     <a href="#">
-                        <img class="h-8 w-auto" src="https://via.placeholder.com/100x40" alt="Logo">
+                        <img class="h-8 w-auto" src="images/logo.png" alt="Logo">
                     </a>
                 </div>
                 <!-- Mobile Menu Toggle Button -->
